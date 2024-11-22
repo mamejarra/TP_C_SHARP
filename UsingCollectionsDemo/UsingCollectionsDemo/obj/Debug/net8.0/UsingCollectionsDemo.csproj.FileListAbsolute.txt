@@ -1,0 +1,14 @@
+C:\Users\monsh\source\repos\UsingCollectionsDemo\UsingCollectionsDemo\obj\Debug\net8.0\UsingCollectionsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monsh\source\repos\UsingCollectionsDemo\UsingCollectionsDemo\obj\Debug\net8.0\UsingCollectionsDemo.AssemblyInfoInputs.cache
+C:\Users\monsh\source\repos\UsingCollectionsDemo\UsingCollectionsDemo\obj\Debug\net8.0\UsingCollectionsDemo.AssemblyInfo.cs
+C:\Users\monsh\source\repos\UsingCollectionsDemo\UsingCollectionsDemo\obj\Debug\net8.0\UsingCollectionsDemo.csproj.CoreCompileInputs.cache
+C:\Users\monsh\source\repos\UsingCollectionsDemo\UsingCollectionsDemo\bin\Debug\net8.0\UsingCollectionsDemo.exe
+C:\Users\monsh\source\repos\UsingCollectionsDemo\UsingCollectionsDemo\bin\Debug\net8.0\UsingCollectionsDemo.deps.json
+C:\Users\monsh\source\repos\UsingCollectionsDemo\UsingCollectionsDemo\bin\Debug\net8.0\UsingCollectionsDemo.runtimeconfig.json
+C:\Users\monsh\source\repos\UsingCollectionsDemo\UsingCollectionsDemo\bin\Debug\net8.0\UsingCollectionsDemo.dll
+C:\Users\monsh\source\repos\UsingCollectionsDemo\UsingCollectionsDemo\bin\Debug\net8.0\UsingCollectionsDemo.pdb
+C:\Users\monsh\source\repos\UsingCollectionsDemo\UsingCollectionsDemo\obj\Debug\net8.0\UsingCollectionsDemo.dll
+C:\Users\monsh\source\repos\UsingCollectionsDemo\UsingCollectionsDemo\obj\Debug\net8.0\refint\UsingCollectionsDemo.dll
+C:\Users\monsh\source\repos\UsingCollectionsDemo\UsingCollectionsDemo\obj\Debug\net8.0\UsingCollectionsDemo.pdb
+C:\Users\monsh\source\repos\UsingCollectionsDemo\UsingCollectionsDemo\obj\Debug\net8.0\UsingCollectionsDemo.genruntimeconfig.cache
+C:\Users\monsh\source\repos\UsingCollectionsDemo\UsingCollectionsDemo\obj\Debug\net8.0\ref\UsingCollectionsDemo.dll
